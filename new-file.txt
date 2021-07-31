@@ -1,0 +1,2 @@
+Some contents in the new-file
+
